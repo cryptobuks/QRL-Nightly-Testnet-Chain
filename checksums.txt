@@ -1,0 +1,13 @@
+1f033168920250029b9d8e732378743fba631a45d440cc0af3764df75c6d0d92  /home/ubuntu/QRL-Nightly-Testnet-Chain/splitState/QRL_state.tar.gzaa
+b4b509c05654ba31edefc43eaed4bbf09e5abb64d5ffd95eb254ec2007d5daa7  /home/ubuntu/QRL-Nightly-Testnet-Chain/splitState/QRL_state.tar.gzab
+a332b5d64d2623a1634addf655ae704ee10e2e133fc914e101c6cf8787d6d8ab  /home/ubuntu/QRL-Nightly-Testnet-Chain/splitState/QRL_state.tar.gzac
+6dd285086f04cf60baccb5b814eb0c719d89e8e7f85486e0e37e4d47b683686e  /home/ubuntu/QRL-Nightly-Testnet-Chain/splitState/QRL_state.tar.gzad
+c520c86067131cb76abda777c47306253c3a5d9fc032b86e6d33579a7fe8c5f4  /home/ubuntu/QRL-Nightly-Testnet-Chain/splitState/QRL_state.tar.gzae
+70acbc9b3c013d5f85ea69dc9a4271b847d586a7e1f69c0a2d1b710d8f56b1ba  /home/ubuntu/QRL-Nightly-Testnet-Chain/splitState/QRL_state.tar.gzaf
+
+03d40610a17ac06a7daec58ba9b69298  /home/ubuntu/QRL-Nightly-Testnet-Chain/splitState/QRL_state.tar.gzaa
+bda33b5c75c7b756044d2aa89bf498a8  /home/ubuntu/QRL-Nightly-Testnet-Chain/splitState/QRL_state.tar.gzab
+a70c5e38bac208e964acda4981fb19eb  /home/ubuntu/QRL-Nightly-Testnet-Chain/splitState/QRL_state.tar.gzac
+abe3679288b951cc8a1dce8f3685938d  /home/ubuntu/QRL-Nightly-Testnet-Chain/splitState/QRL_state.tar.gzad
+332f21102ffb7df67248010eec65a813  /home/ubuntu/QRL-Nightly-Testnet-Chain/splitState/QRL_state.tar.gzae
+4c2528c1ea1bbecfd6a5f1055e921cb4  /home/ubuntu/QRL-Nightly-Testnet-Chain/splitState/QRL_state.tar.gzaf
